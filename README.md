@@ -51,9 +51,12 @@ ngrok http http://localhost:3000
 2. share public link
 
 **SERVER**
+
 ![image](https://github.com/user-attachments/assets/feb3d477-da7a-408e-ae40-7a6c7fc69aad)
 
+
 **CLIENT**
+
 ![image](https://github.com/user-attachments/assets/c20b53eb-5377-49bc-b2bc-360b1e81527c)
 
 ## 🤝 Contributing
